@@ -1,5 +1,6 @@
 <div align='center'>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mountains+of+Christmas&size=17&duration=5001&pause=1003&color=407174&center=true&width=435&lines=I+only+hurt+the+ones+I+love" alt="Typing SVG" /></a>
+
+[![Hits](https://hits.sh/github.com/pvrpss.svg?style=plastic&label=marines&color=95435b&labelColor=44555C)](https://hits.sh/github.com/pvrpss/)
 
 <div align='center'>
-<img src='https://files.catbox.moe/y3y09x.png'
+
